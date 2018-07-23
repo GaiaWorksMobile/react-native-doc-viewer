@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/res/merged/debug/xml/filepaths.xml",
+        "source": "/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/DocumentViewerExample/react-native-doc-viewer/unspecified/res/xml/filepaths.xml"
+    }
+]

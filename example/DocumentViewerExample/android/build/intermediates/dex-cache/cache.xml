@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a12b85f3a022f771366f4720f3ac0eccb5fb1136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_54b4c60af2cb720e1eea0a6f1c39f9f0cf5c1491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c753a4ddf45df74434aae486b309ed3e34601a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b595f1271deca44f9568b0e42754d9d73400691e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_511b9b00f527fddb68a16dce22c754ca49656177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_134a47ee32d4665df19914d0c31236e57336188a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_3021493a8f61f7c6cebebf32faeeed486c8c5a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_a22f6be7b4f2e89ff3f433a345e190c435adfa29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_c55ddde4974a4467bb0853e7d26d8ad8e38a30ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_091056d2bf4d5cbfaeada66e8fed68d4e54402c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_2a84636cd1b771da94ae8972456b426826e981fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_473ee1385aea91322ac84fc2c92cdea824867af8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_06a0011f920ca6de7e077c55ada1e62b5938f9a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_71541efa7bdbc2437ef0324187230e19ca3ff5fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_22ed1acf37e87f569034b84e22ea0f01278b6f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c109c10c1d53be0a7dcb9349de68b5de0c373663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_630c1fdec03a9ea72c5585a69d3e825112d71e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3904e3265076927306686e4943623d5362466514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/DocumentViewerExample/react-native-doc-viewer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bbbc7853d0b545b6e84e0482e4716eb1c8467ecd">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/DocumentViewerExample-react-native-doc-viewer-unspecified_079e21d517042dd78683da60f3e2cff8794795fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/net.mischneider/react-native-event-bridge/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cb825d81145960cb576d9196947b15a73fabce32">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/net.mischneider-react-native-event-bridge-unspecified_93574f02a5680a0d7bbbe60a3c75c04f1a42120c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_98d3f389f31449e4afb60993e7c07630ba2f6060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9549ac1c7af82ad2af1b0b78bc12880f66696c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/DocumentViewerExample/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4c1f85f1e9013bede202ba72e78045dec7baaf8a">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/DocumentViewerExample-react-native-fs-unspecified_673979378b962d458212e672555a7ad2a071ddd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/macbook/Projects/HTML5/React_Native_Modules/react-native-doc-viewer/example/DocumentViewerExample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1ed0fce74a0c9b73ba27cceb3a4a0914e7b2be7b.jar" />
+    </item>
+
+</items>
